@@ -1,9 +1,6 @@
 from langchain_google_vertexai import VertexAIEmbeddings
 import os
 
-# Set the path to your service account key file
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\egeha\\project\\.venv\\gemini_project\\gemini-quizzify-1-1e1d78dac83f.json"
-
 """
     Task: Initialize the EmbeddingClient class to connect to Google Cloud's VertexAI for text embeddings.
     
