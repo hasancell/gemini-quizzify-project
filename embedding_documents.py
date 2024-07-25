@@ -1,3 +1,6 @@
+# Task 4 of Gemini Quizzify
+
+# Import necessary libraries
 from langchain_google_vertexai import VertexAIEmbeddings
 import os
 
