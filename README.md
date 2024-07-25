@@ -10,25 +10,16 @@ Gemini Quizzify aims to create engaging and informative quizzes based on user-pr
 
 By running the provided script files, you can achieve the following functionalities:
 
-1. **Document Processing with Google Gemini**: Efficiently process and extract relevant information from various documents using Google Gemini's robust capabilities.
-
-2. **Text Embeddings with Langchain**: Generate high-quality text embeddings that capture the semantic meaning of the text, facilitating accurate quiz generation.
-
-3. **Google Service Account Integration**: Securely authenticate and access Google's APIs using a Google Service Account, ensuring seamless integration and operation.
-
-4. **PDF Loader for Document Ingestion**: Easily load and ingest documents in PDF format, preparing them for processing and quiz generation.
-
-5. **Interactive User Interface with Streamlit**: Build a visually appealing and interactive user interface with Streamlit, enabling users to interact with the application effortlessly.
-
-6. **Quiz Generation Based on User Input Topics**: Create customized quizzes tailored to the topics specified by the user, enhancing the relevance and engagement of the quizzes.
-
-7. **Providing Detailed Explanations for Quiz Answers**: Offer comprehensive explanations for each quiz answer, helping users understand the reasoning behind the correct responses.
-
-8. **Navigation Controls for the Quiz Interface**: Incorporate intuitive navigation controls within the quiz interface, allowing users to move through questions and review answers easily.
-
-9. **Error Handling and Validation Mechanisms**: Implement robust error handling and validation mechanisms to ensure the smooth functioning of the application and provide meaningful feedback to users.
-
-10. **Packaging and Deployment Considerations**: Consider various packaging and deployment options to facilitate easy distribution and deployment of the application in different environments.
+1. Process documents with Google Gemini.
+2. Generate text embeddings with Langchain.
+3. Authenticate using a Google Service Account.
+4. Load documents using a PDF loader.
+5. Build an interactive user interface with Streamlit.
+6. Create quizzes based on topics you input.
+7. Provide detailed explanations for quiz answers.
+8. Include navigation controls in the quiz interface.
+9. Handle errors and validate input.
+10. Consider packaging and deployment needs.
 
 ## Getting Started
 
