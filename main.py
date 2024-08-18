@@ -6,6 +6,9 @@ import sys
 import json
 
 sys.path.append(os.path.abspath('../../'))
+# Ensure to set the path to your Google service account JSON key
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\project\\.venv\\gemini_project\\your-project-key.json"
+
 from gemini_project.document_processor import DocumentProcessor
 from gemini_project.embedding_documents import EmbeddingClient
 from gemini_project.chroma_collector import ChromaCollectionCreator
