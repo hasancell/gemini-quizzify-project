@@ -5,6 +5,7 @@ import sys
 import json
 
 sys.path.append(os.path.abspath('../../'))
+
 # Ensure to set the path to your Google service account JSON key
 # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\project\\.venv\\gemini_project\\your-project-key.json"
 
