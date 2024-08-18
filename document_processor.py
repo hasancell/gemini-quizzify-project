@@ -7,6 +7,9 @@ import os
 import tempfile
 import uuid
 
+# Ensure to set the path to your Google service account JSON key
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\project\\.venv\\gemini_project\\your-project-key.json"
+
 class DocumentProcessor:
     """
     This class encapsulates the functionality for processing uploaded PDF documents using Streamlit
