@@ -4,6 +4,9 @@
 from langchain_google_vertexai import VertexAIEmbeddings
 import os
 
+# Ensure to set the path to your Google service account JSON key
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\project\\.venv\\gemini_project\\your-project-key.json"
+
 """
     Task: Initialize the EmbeddingClient class to connect to Google Cloud's VertexAI for text embeddings.
     
