@@ -54,9 +54,7 @@ This project is licensed under the MIT License. For more details, refer to the L
 
 ## Acknowledgments
 
-This project builds upon the work done in [mission-quizify](https://github.com/radicalxdev/mission-quizify) by [radicalxdev]. I am grateful for their foundational contributions, which have been instrumental in the development of Gemini Quizzify.
-
-- **[Radical AI](https://www.radicalai.org/)**: For providing the challenges and inspiration that led to the creation of this project.
+- **[Radical AI](https://lab.radicalai.app/)**: For providing the challenges and inspiration that led to the creation of this project.
 - **[Streamlit](https://streamlit.io/)**: For developing a platform that enables the creation of user-friendly interfaces.
 - **[Google Cloud Platform](https://cloud.google.com/)**: For offering APIs and services that are integral to the functioning of this project.
 - **[Langchain](https://langchain.com/)**: For providing the technology needed to generate high-quality text embeddings.
